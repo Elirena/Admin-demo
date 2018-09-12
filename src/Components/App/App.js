@@ -21,7 +21,7 @@ class App extends Component {
     return (
       <div className="App">
           <TopBlock/>
-          <Router>
+          <Router basename={process.env.PUBLIC_URL}>
               <React.Fragment>
                   <Route exact path="/" component={AuthPage} />
                   <Route exact path="/auth" component={AuthPage}/>
