@@ -1,0 +1,65 @@
+.users {
+    background: #2C3E50;
+    min-width: 1200px;
+}
+.users-page_title{
+    margin-bottom: 60px;
+    color: #1ABC9C;
+}
+.todo {
+    color: #798795;
+    border-radius: 6px;
+    margin: 50px auto;
+}
+.todo-content {
+    text-align: left;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+.pagination {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+.user-name {
+    color: white;
+    font-size: 20px;
+}
+.user-id {
+    font-size: 16px;
+    letter-spacing: 0.1em;
+    vertical-align: middle;
+}
+.user-mail {
+    font-size: 16px;
+    letter-spacing: 0.1em;
+}
+.user-icon {
+    display: inline-block;
+    float: left;
+    font-size: 18px;
+    margin-top: 10px;
+    padding:  0 0;
+}
+
+.todo li.todo-done {
+    background: none;
+}
+.todo-done {
+    border-bottom: 1px solid #798795;
+}
+.pagination {
+    display: inline-block;
+    margin-bottom: 50px;
+}
+.pagination ul  {
+    background: #34495e;
+}
+.pagination ul li a {
+    background: none;
+    border: none;
+}
+.pagination li {
+    margin-left: 5px;
+    margin-right: 5px;
+}

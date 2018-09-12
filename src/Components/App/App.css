@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  background: #2C3E50;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+.App {
+  display: block;
+  text-align: center;
+  background: #2C3E50;
+}
+
+.center {
+  margin: 0 auto;
+}
+.local-mark {
+  font-size: 40px;
+  color: #1ABC9C;
+}
+.mark-text {
+  font-size: 16px;
+  color: #fff;
+  margin-left: -130px;
+}
+
+.center a {
+  min-width: 100px;
+  color: #ffffff;
+}
