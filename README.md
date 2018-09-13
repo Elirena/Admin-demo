@@ -11,3 +11,4 @@
 * Webpack сборка
 * LocalStorage
 * Router
+* Bootstrap Flat UI
