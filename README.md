@@ -1,9 +1,5 @@
 # Admin panel
-
-## Можно посмотреть
-
-[DEMO](/) - демо 
-
+[DEMO](https://elirena.github.io/admin-demo/) - демо 
 
 
 ### Использовано
